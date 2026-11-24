@@ -1,0 +1,37 @@
+{
+  "_note": "Demo card for the synthetic example only. Import your own JADE export with: python xrd_cards.py --import <PDF#xxxx.txt>",
+  "Demo": {
+    "formula": "Demo",
+    "name": "Synthetic demo phase (cubic, made up)",
+    "card": "DEMO#0001",
+    "system": "cubic",
+    "spacegroup": "Fm-3m",
+    "lattice": {
+      "a": 5.4
+    },
+    "source": "synthetic",
+    "intensity_source": "synthetic",
+    "peaks": [
+      [
+        28.44,
+        100.0,
+        "111"
+      ],
+      [
+        40.0,
+        55.0,
+        "200"
+      ],
+      [
+        52.0,
+        70.0,
+        "220"
+      ],
+      [
+        61.5,
+        25.0,
+        "311"
+      ]
+    ]
+  }
+}
