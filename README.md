@@ -46,7 +46,8 @@ python xrd_cards.py --list
 python xrd_plot.py examples/demo.txt --cards Demo --smooth 15 --peaks 3
 ```
 
-Output: `examples/demo.tif` (300 dpi) and `examples/demo.opju`.
+Output: `demo.tif` (300 dpi) and `demo.opju`, written next to the scripts and named
+ after the input file.
 
 ### Common options
 
